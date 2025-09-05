@@ -1,0 +1,3 @@
+in 7 handed game, player 1 will be the one in the top left. Player 2 is to the right, clockwise
+
+player_1 left card is (142, 193) x (203, 237)   
