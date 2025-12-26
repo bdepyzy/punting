@@ -1,0 +1,15 @@
+[project]
+name = "punting"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "i3ipc>=2.2.1",
+    "imagegrab>=0.0.3",
+    "numpy>=2.2.6",
+    "pillow>=12.0.0",
+    "tensorflow>=2.20.0",
+    "torch>=2.9.1",
+    "torchvision>=0.24.1",
+]
